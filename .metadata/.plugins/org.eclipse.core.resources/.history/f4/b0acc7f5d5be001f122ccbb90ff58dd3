@@ -1,0 +1,14 @@
+package code;
+
+public class StringscharArrays {
+	public static void main(String[] args){
+
+		String Str = "Aditya";
+		
+		char[] charArray = Str.toCharArray();
+
+		System.out.println(charArray);	
+
+	}
+
+}

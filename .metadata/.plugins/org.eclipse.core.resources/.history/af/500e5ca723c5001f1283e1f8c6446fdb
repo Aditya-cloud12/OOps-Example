@@ -1,0 +1,23 @@
+package code;
+
+public class MinMaxFinder {
+    public static void main(String[] args)
+    {
+        int[] A = { 4, 9, 6, 5, 2, 3 };
+        int N = A.length;
+        System.out.println("Minimum element is: "
+                           + setmini(A, N));
+        System.out.println("Maximum element is: "
+                           + setmaxi(A, N));
+    }
+
+	private static String setmaxi(int[] a, int n) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private static String setmini(int[] a, int n) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

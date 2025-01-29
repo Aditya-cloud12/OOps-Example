@@ -1,0 +1,16 @@
+package code;
+
+public class StringsConcatenation {
+	public static void main(String[] args){
+		
+		String str1 = "Aditya";
+		
+		String str2 = "Raj";
+		
+		String str3 = str1.concat(str2);
+
+		System.out.println(str3);
+
+	}
+
+}
