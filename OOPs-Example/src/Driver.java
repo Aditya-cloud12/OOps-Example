@@ -1,6 +1,6 @@
 
 /*
-  
+
 
   public class Driver {
     public static void main(String[] args) {
@@ -12,12 +12,12 @@
         d.print(e);
     }
 
-    void print(Employee e) { 
+    void print(Employee e) {
         System.out.println(e.id + " " + e.salary);
     }
 }
 
-class Employee { 
+class Employee {
     int id;
     double salary;
 }
@@ -28,7 +28,7 @@ class Employee {
 //----------------------------------------------------------------------------------------------------------------
 
 /*
-  
+
   class Doctor {
 	String name;
 	int age;
@@ -60,7 +60,7 @@ class Driver {
 //-------------------------------------------------------------------------------------------------------------------
 
 /*
- 
+
  class Product{
 	String Name;
 	double Price;
@@ -68,23 +68,23 @@ class Driver {
 
 
 class Driver{
-	
+
 	void print (Product P) {
 		System.out.println(P.Name+"  "+P.Price);
 	}
-	
+
 	public static void main(String[] args) {
-		
+
 		Driver d = new Driver();
-		
+
 		Product P = new Product();
 		P.Name = "Shamphoo";
 		P.Price = 15.00;
-		
+
 		d.print(P);
-	
+
 	}
-}          
+}
 
 */
 
@@ -111,7 +111,7 @@ class Driver {
 
 		Student S = new Student();
 
-		S.Name = "Himanshu" ; 
+		S.Name = "Himanshu" ;
 		S.Roll = 1011;
 		S.Address = "Bidupur";
 		S.Marks = 480;
@@ -120,7 +120,7 @@ class Driver {
 	}
 
 }
-  
+
 */
 
 //-----------------------------------------------------------------------------------------------------------------------
@@ -177,8 +177,8 @@ class Driver {
 
 		D.print(C);
 	}
-}      
-    
+}
+
 
 //---------------------------------------------------------------------------------------------------------------------
 

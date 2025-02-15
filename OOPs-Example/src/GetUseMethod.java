@@ -138,7 +138,7 @@ class GetUseMethod{
 		Income i = n.i();
 		System.out.println(i.name+" "+i.rupees+"  "+i.month);
 	}
-	
+
 }
 
 */
@@ -160,7 +160,7 @@ class GetUseMethod{
 
 
 
-	Students s(int id) { 
+	Students s(int id) {
 	   Students s = new Students ();
 	   if (id==101) {
 		   s.id = 101;
@@ -170,11 +170,11 @@ class GetUseMethod{
 		   s.id = 102;
 		   s.name = "Mohan";
 		   s.marks = 340;
-		  
+
 	   }
 	   return s;
 	}
-}	
+}
 
 */
 
