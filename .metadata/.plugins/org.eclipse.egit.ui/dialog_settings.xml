@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="CommitDialog.authorValues">
+		<item value="Aditya-cloud12 &lt;adityaraj@fe80:0:0:0:c036:ecff:feed:df4f%13&gt;"/>
+		<item value="Aditya-cloud12 &lt;adityaraj@192.168.31.13&gt;"/>
+		<item value="Aditya-cloud12 &lt;adityaraj@192.168.29.7&gt;"/>
 		<item value="Aditya-cloud12 &lt;adityaraj@localhost&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
+		<item value="Aditya-cloud12 &lt;adityaraj@fe80:0:0:0:c036:ecff:feed:df4f%13&gt;"/>
+		<item value="Aditya-cloud12 &lt;adityaraj@192.168.31.13&gt;"/>
+		<item value="Aditya-cloud12 &lt;adityaraj@192.168.29.7&gt;"/>
 		<item value="Aditya-cloud12 &lt;adityaraj@localhost&gt;"/>
 	</list>
 	<list key="EGit.KnownHosts">
@@ -13,7 +19,7 @@
 	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
-		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="502,497"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
 		<item key="sortItemState" value="false"/>
 	</section>
@@ -29,5 +35,14 @@
 			<item value="600"/>
 			<item value="400"/>
 		</list>
+	</section>
+	<section name="GitImportWizard">
+		<section name="GitImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="384"/>
+			<item key="DIALOG_Y_ORIGIN" value="67"/>
+			<item key="DIALOG_WIDTH" value="586"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
 	</section>
 </section>
