@@ -1,15 +1,15 @@
 
-class SuperClass {
+class SupremeClass {
 	void m1() {
-		System.out.println("SuperClass :: m1() called");
+		System.out.println("SupremeClass :: m1() called");
 	}
 
 	void m2() {
-		System.out.println("SuperClass :: m2() called");
+		System.out.println("SupremeClass :: m2() called");
 	}
 }
 
-class Child extends SuperClass {
+class Child extends SupremeClass {
 	void m1() {
 		System.out.println("Child class :: m1() called");
 	}
